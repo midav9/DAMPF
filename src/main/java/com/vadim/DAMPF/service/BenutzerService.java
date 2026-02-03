@@ -1,8 +1,6 @@
 package com.vadim.DAMPF.service;
 
-import com.sun.jna.platform.win32.Netapi32Util;
 import com.vadim.DAMPF.repository.BenutzerRepository;
-import org.apache.catalina.User;
 import org.springframework.stereotype.Service;
 import com.vadim.DAMPF.entity.benutzer;
 

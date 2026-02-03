@@ -18,7 +18,7 @@ public class benutzer {
     private int benutzerID;
 
     @Column(name = "username")
-    private int username;
+    private String UserName;
 
     @Column(name = "balance")
     private float balance;
